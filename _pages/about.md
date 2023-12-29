@@ -15,9 +15,9 @@ For more information, please check out my [CV](files/CV.pdf).
 Publication
 ======
 
-\bullet Xin L., **Siqi L.**, Yali L., Shengjin W. (2023). *Improving individual brain prediction via a generalizable group brain encoding model.* (In preparation)
+\bullet Xin L., **Siqi L.**, Yali L., Shengjin W. (2023). **Improving individual brain prediction via a generalizable group brain encoding model.** *(In preparation)*
 
-\bullet Zijian Z., Yali L., Yue Z., **Siqi L.**, Shengjin W. (2023). *FTAN: Exploring frame-text attention for lightweight video captioning.* International Conference on Computing and Pattern Recognition. *(Accepted)*
+\bullet Zijian Z., Yali L., Yue Z., **Siqi L.**, Shengjin W. (2023). **FTAN: Exploring frame-text attention for lightweight video captioning.** International Conference on Computing and Pattern Recognition. *(Accepted)*
 
 Getting started
 ======
