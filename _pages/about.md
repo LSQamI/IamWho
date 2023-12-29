@@ -12,16 +12,20 @@ I am an undergraduate student at [the Department of Electronic Engineering](http
 
 For more information, please check out my [CV](files/CV.pdf).
 
-Publication
-======
+
+# Publication
 
  Xin L., **Siqi L.**, Yali L., Shengjin W. (2023). **Improving individual brain prediction via a generalizable group brain encoding model.** *(In preparation)*
 
  Zijian Z., Yali L., Yue Z., **Siqi L.**, Shengjin W. (2023). **FTAN: Exploring frame-text attention for lightweight video captioning.** International Conference on Computing and Pattern Recognition. *(Accepted)*
 
-Projects
-======
-The Algonauts Project 2023
-------
-Trained an ConvNeXt-based encoding model with Feature Pyramid Network and sparse dictionary learning, in order to predict the fMRI signals of human brain with single-trail images viewed by the subjects, caption of the input images and behaviour data of the subjects as input. The model ranked 5th on the final leader board of the [competition](http://algonauts.csail.mit.edu/challenge.html).
-![Error](images/005_cvailab.png)
+
+# Projects
+
+## The Algonauts Project 2023
+
+Trained an ConvNeXt-based encoding model with Feature Pyramid Network and sparse dictionary learning, in order to predict the fMRI signals of human brain with single-trail images viewed by the subjects, caption of the input images and behaviour data of the subjects as input. The model ranked 5th on the final leader board of the [competition](http://algonauts.csail.mit.edu/challenge.html). [Visualization](images/005_cvailab.png) of the prediction and [accuracy report](files/Submission_Report_Summary.svg) are available.
+
+## Analyzing Brain Imaging of Visual Cognition with Transformer
+
+With Transformer models based on Pytorch, multi-label classification is performed on fMRI images of the human brain in the [NSD dataset](https://www.nature.com/articles/s41593-021-00962-x) based on the labels of the images viewed by the subjects. 
