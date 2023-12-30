@@ -28,4 +28,4 @@ Trained an ConvNeXt-based encoding model with Feature Pyramid Network and sparse
 
 ## Analyzing Brain Imaging of Visual Cognition with Transformer
 
-With Transformer models based on Pytorch, multi-label classification is performed on fMRI images of the human brain in the [NSD dataset](https://www.nature.com/articles/s41593-021-00962-x) based on the labels of the images viewed by the subjects. 
+With Transformer models based on Pytorch, multi-label classification is performed on fMRI images of the human brain in the [NSD dataset](https://www.nature.com/articles/s41593-021-00962-x) based on the labels of the images viewed by the subjects. Code is available [here](https://github.com/LSQamI/Brain-Decode).
