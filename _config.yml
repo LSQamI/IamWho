@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Siqi Li / 李思齐"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Siqi Li"
 description              : &description "personal description"
 url                      : https://lsqami.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/IamWho" # the subpath of your site, e.g. "/blog"
