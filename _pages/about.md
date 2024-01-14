@@ -28,4 +28,12 @@ Trained an ConvNeXt-based encoding model with Feature Pyramid Network and sparse
 
 ## Analyzing Brain Imaging of Visual Cognition with Transformer
 
-With Transformer models based on Pytorch, multi-label classification is performed on fMRI images of the human brain in the [NSD dataset](https://www.nature.com/articles/s41593-021-00962-x) based on the labels of the images viewed by the subjects. Code is available [here](https://github.com/LSQamI/Brain-Decode).
+With Transformer models based on Pytorch, multi-label classification is performed on fMRI images of the human brain in the [NSD dataset](https://www.nature.com/articles/s41593-021-00962-x) based on the labels of the images viewed by the subjects. Code and materials are available [here](https://github.com/LSQamI/Brain-Decode).
+
+## Tsinghua University 2021 Competition of Intelligent Robot
+
+Trained a CNN to enable the Ultra96-V2-based intelligent robot to recognize different targets. Let it detect blocks of different colors, and avoid stationary or moving obstacles. Calibrated images from its camera against grid markers to confirm its position to let it walk accurately following a planned path. [Demo](https://github.com/LSQamI/Robot)
+
+## Predicting World Temperature with Gaussian Process Regression
+
+Used 1880 to 2021 World temperature data from NASA to train and estimate a GPR model, whose MAE was less than that of other researchers’ predictions by neural network. Predicted that world temperature would rise rapidly, with 1℃ higher than today’s temperature in 2050. [Link](https://github.com/LSQamI/GPR)
