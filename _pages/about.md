@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an undergraduate student at [the Department of Electronic Engineering](https://www.ee.tsinghua.edu.cn/en/), Tsinghua University, supervised by [Prof. Shengjin Wang](http://web.ee.tsinghua.edu.cn/wangshengjin/en/index/2817/list/index.htm) and [Dr. Yali Li](http://web.ee.tsinghua.edu.cn/liyali/en/index.htm). Interested in unraveling the principles of neuronal population, I am working on the topic of application of deep learning in neuroscience.
+I am a graduate student at Peking University and the [Chinese Institute for Brain Research, Beijing](https://en.cibr.ac.cn/home), advised by [Dr. Ni Ji](https://en.cibr.ac.cn/teamDetail/cibrTeamteam/7eaf96c5b298444b84328680fb1b7a15/Ni%20Ji) and [Dr. He Cui](https://en.cibr.ac.cn/teamDetail/cibrTeamteam/7f006914a22f4e2d8b027f76d70c4636/He%20Cui). My research focuses on **decoding algorithms for motor brain-computer interfaces**. Previously, I was an undergraduate student in the [Department of Electronic Engineering](https://www.ee.tsinghua.edu.cn/en/) at Tsinghua University, where I worked under the supervision of [Dr. Yali Li](http://web.ee.tsinghua.edu.cn/liyali/en/index.htm) and [Prof. Shengjin Wang](http://web.ee.tsinghua.edu.cn/wangshengjin/en/index/2817/list/index.htm).
 
 For more information, please check out my [CV](files/CV.pdf).
 
