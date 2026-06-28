@@ -13,7 +13,7 @@ I am a graduate student at [Peking University](https://www.pku.edu.cn/) and the 
 For more information, please check out my [CV](/files/CV_cn.pdf).
 
 
-# Publication
+# Publications
 
 **Siqi L.**, Zhi Li, Tong Liu, Shuai Zhang, Yanfei Jia, Zhiqiang Yi, Jue Xie, Ni Ji. (2026). **Multi-feature Riemannian Hypergraph for Online Test-Time Adaptation of Motor Imagery Brain-Computer Interface.** *(Under Review)*
 
@@ -24,7 +24,7 @@ For more information, please check out my [CV](/files/CV_cn.pdf).
 
 ## The Algonauts Project 2023
 
-Trained an ConvNeXt-based encoding model with Feature Pyramid Network and sparse dictionary learning, in order to predict the fMRI signals of human brain with single-trail images viewed by the subjects, caption of the input images and behaviour data of the subjects as input. The model ranked 5th on the final leader board of the [competition](http://algonauts.csail.mit.edu/challenge.html). [Visualization](images/005_cvailab.png) of the prediction and [accuracy report](files/Submission_Report_Summary.svg) are available.
+Trained an ConvNeXt-based encoding model with Feature Pyramid Network and sparse dictionary learning, in order to predict the fMRI signals of human brain with single-trail images viewed by the subjects, caption of the input images and behaviour data of the subjects as input. The model ranked 5th on the final leader board of the [competition](http://algonauts.csail.mit.edu/challenge.html). [Visualization](/images/005_cvailab.png) of the prediction and [accuracy report](/files/Submission_Report_Summary.svg) are available.
 
 ## Analyzing Brain Imaging of Visual Cognition with Transformer
 
