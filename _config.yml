@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Siqi Li"
   avatar           : "photo.jpg"
-  bio              : "Undergraduate @ THU EE"
+  bio              : "Graduate student@ PKU"
   location         : "Beijing, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "li-sq19@mails.tsinghua.edu.cn"
+  googlescholar    : "https://scholar.google.com/citations?user=j2lfGZMAAAAJ&hl=en"
+  email            : "lsq@stu.pku.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
