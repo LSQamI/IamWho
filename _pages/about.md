@@ -8,16 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-I am a graduate student at Peking University and the [Chinese Institute for Brain Research, Beijing](https://en.cibr.ac.cn/home), advised by [Dr. Ni Ji](https://en.cibr.ac.cn/teamDetail/cibrTeamteam/7eaf96c5b298444b84328680fb1b7a15/Ni%20Ji) and [Dr. He Cui](https://en.cibr.ac.cn/teamDetail/cibrTeamteam/7f006914a22f4e2d8b027f76d70c4636/He%20Cui). My research focuses on **decoding algorithms for motor brain-computer interfaces**. Previously, I was an undergraduate student in the [Department of Electronic Engineering](https://www.ee.tsinghua.edu.cn/en/) at Tsinghua University, where I worked under the supervision of [Dr. Yali Li](http://web.ee.tsinghua.edu.cn/liyali/en/index.htm) and [Prof. Shengjin Wang](http://web.ee.tsinghua.edu.cn/wangshengjin/en/index/2817/list/index.htm).
+I am a graduate student at [Peking University](https://www.pku.edu.cn/) and the [Chinese Institute for Brain Research, Beijing](https://en.cibr.ac.cn/home), advised by [Dr. Ni Ji](https://en.cibr.ac.cn/teamDetail/cibrTeamteam/7eaf96c5b298444b84328680fb1b7a15/Ni%20Ji) and [Dr. He Cui](https://en.cibr.ac.cn/teamDetail/cibrTeamteam/7f006914a22f4e2d8b027f76d70c4636/He%20Cui). My research focuses on **decoding algorithms for motor brain-computer interfaces**. Previously, I was an undergraduate student in the [Department of Electronic Engineering](https://www.ee.tsinghua.edu.cn/en/) at Tsinghua University, where I worked under the supervision of [Dr. Yali Li](http://web.ee.tsinghua.edu.cn/liyali/en/index.htm) and [Prof. Shengjin Wang](http://web.ee.tsinghua.edu.cn/wangshengjin/en/index/2817/list/index.htm).
 
-For more information, please check out my [CV](files/CV.pdf).
+For more information, please check out my [CV](files/CV_cn.pdf).
 
 
 # Publication
 
- Xin L., **Siqi L.**, Yali L., Shengjin W. (2023). **Improving individual brain prediction via a generalizable group brain encoding model.** *(In preparation)*
+**Siqi L.**, Zhi Li, Tong Liu, Shuai Zhang, Yanfei Jia, Zhiqiang Yi, Jue Xie, Ni Ji. (2026). **Multi-feature Riemannian Hypergraph for Online Test-Time Adaptation of Motor Imagery Brain-Computer Interface.** *(Under Review)*
 
- Zijian Z., Yali L., Yue Z., **Siqi L.**, Shengjin W. (2023). **FTAN: Exploring frame-text attention for lightweight video captioning.** International Conference on Computing and Pattern Recognition. *(Accepted)*
+ Zijian Z., Yali L., Yue Z., **Siqi L.**, Shengjin W. (2023). **FTAN: Exploring frame-text attention for lightweight video captioning.** International Conference on Computing and Pattern Recognition.
 
 
 # Projects
